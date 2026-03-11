@@ -5,8 +5,16 @@
 
 - AI, agentic AI, explainable AI, responsible AI, AI in healthcare
 
-- This README collects **small** and **large** grant schemes you (UK-based faculty) can realistically apply for, with direct links and notes on fit for your research areas (agentic AI, explainable AI, responsible AI for the Global South, AI applied to healthcare).
+- This README collects 💰 **small** and **large** grant schemes you (UK-based faculty) can realistically apply for, with direct links and notes on fit for your research areas (agentic AI, explainable AI, responsible AI for the Global South, AI applied to healthcare).
 
+
+## 💰 Quick view
+
+  * Schmidt HAVI
+
+  * [EPSRC Small Mathematical Grants](https://www.ukri.org/opportunity/mathematical-sciences-small-grants/)
+
+  * Institutional grants
 
 
 ---
@@ -19,7 +27,7 @@
 
 ---
 
-## Quick picks — *small / fast-to-apply* (good for pilot data and student support)
+## 💰 Quick picks — *small / fast-to-apply* (good for pilot data and student support)
 
   * Schmidt HAVI
 
