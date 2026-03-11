@@ -39,6 +39,8 @@ This README collects **small** and **large** grant schemes you (UK-based faculty
 
 ## Mid-to-large funding (major UK funders)
 
+* [NIA EPSRC](https://www.ukri.org/councils/epsrc/guidance-for-applicants/types-of-funding-we-offer/new-investigator-award/eligibility/#contents-list)
+
 * **UK Research and Innovation (UKRI)** — Future Leaders Fellowships and related schemes
 
   * [https://www.ukri.org/opportunity/future-leaders-fellowship](https://www.ukri.org/opportunity/future-leaders-fellowship)
