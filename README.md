@@ -21,7 +21,15 @@
 
 ## Quick picks — *small / fast-to-apply* (good for pilot data and student support)
 
+  * Schmidt HAVI
+
+  * [EPSRC Small Mathematical Grants](https://www.ukri.org/opportunity/mathematical-sciences-small-grants/)
+
+  * Institutional grants
+
 * **Leverhulme Trust — Research Project Grants / Small Grants**
+
+
 
   * [https://www.leverhulme.ac.uk/](https://www.leverhulme.ac.uk/) (search "Research Project Grants" or "Small Research Grants")
   * Good for interdisciplinary work and projects without immediate commercial outcomes.
