@@ -10,9 +10,11 @@
 
 ## 💰 Quick view
 
-  * Schmidt HAVI
+  * [Schmidt HAVI](https://www.schmidtsciences.org/humanities-and-ai-virtual-institute/)
 
   * [EPSRC Small Mathematical Grants](https://www.ukri.org/opportunity/mathematical-sciences-small-grants/)
+
+  * [EPSRC Multimodal AI grant Open Multimodal AI Benchmark OMAIB](https://multimodalai.github.io/)
 
   * Institutional grants
 
