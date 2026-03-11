@@ -1,4 +1,3 @@
-# Grants for Faculty Working in AI
 
 # Grants & Funding Opportunities for UK Faculty (AI, agentic AI, XAI, responsible AI, AI in healthcare)
 
