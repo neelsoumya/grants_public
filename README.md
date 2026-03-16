@@ -12,12 +12,14 @@
 
   * [EPSRC Small Mathematical Grants](https://www.ukri.org/opportunity/mathematical-sciences-small-grants/)
 
-  * Grant with Amy O. at Cambridge and Hope M. and Vik.
-
   * [Schmidt HAVI](https://www.schmidtsciences.org/humanities-and-ai-virtual-institute/)
+
+  * Grant with Amy O. at Cambridge and Hope M. and Vik.
 
 
   * [EPSRC Multimodal AI grant Open Multimodal AI Benchmark OMAIB](https://multimodalai.github.io/)
+
+  * Grant with M. and others
 
   * Institutional grants
 
