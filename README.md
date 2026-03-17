@@ -21,6 +21,8 @@
 
   * Grant with M. and others
 
+  * [ARIA Safe AI](https://aria.org.uk/opportunity-spaces/mathematics-for-safe-ai/)
+
   * Institutional grants
 
 
