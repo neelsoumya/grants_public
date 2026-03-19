@@ -23,6 +23,10 @@
 
   * [ARIA Safe AI](https://aria.org.uk/opportunity-spaces/mathematics-for-safe-ai/)
 
+  * [John Templeton grant](https://www.templeton.org/grants/grant-database) and [ARIA for Safe AI](https://aria.org.uk/opportunity-spaces/mathematics-for-safe-ai/safeguarded-ai/)
+
+  * With Roly and Mads 
+
   * Institutional grants
 
 
