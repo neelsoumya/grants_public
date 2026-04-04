@@ -140,6 +140,11 @@
 
 ---
 
+
+## SKILLS
+
+- `SKILLS.md` file for writing grants
+
 ## Practical tips & templates
 
 * Use your institution’s Research Office for costing, eligibility checks, and internal deadlines.
