@@ -153,26 +153,65 @@
 
 ---
 
+## Strategies
+
+- Do I have a 2 page idea
+
+- Read the guidance
+
+- What costs elgible 
+
+- Why you?
+
+- Why here?
+
+- Peer review before submission
+
+- Research integrity
+
+RRI
+
+- Referees identify before
+
+- Letter of support
+
+- Budget
+
+Value for money
+
+ Justified? Give explanations and in line with 
+
+- No. 1 rookie mistake
+
+Start with small grants
+
+ Start with QR funding
+	
+ Small pots of money
+	
+ Apply for co-PI first
+
+
 
 ## Concepts
 
 - 🧩🚀 Full Economic Costing (FEC):
 
 
-### **Directly Allocated (DA)**
+ **Directly Allocated (DA)**
 *   **Definition:** Cost of staff time and resources that already exist but will be committed to the project.
 *   **Example:** 10% of the PI's (Principal Investigator) time.
 
-### **Directly Incurred (DI)**
+ **Directly Incurred (DI)**
 *   **Definition:** Project-specific costs. These are costs that would only exist if the project goes ahead.
 *   **Examples:** Travel and subsistence, new research posts.
 
 ---
 
-### **Indirect Costs**
+ **Indirect Costs**
 *   **Definition:** Infrastructure costs for the university, management, and administrative services.
 *   **Includes:** Personnel and finance departments, library, central computing, and some departmental services.
 
-### **Estates**
+ **Estates**
 *   **Definition:** Costs related to buildings and premises.
 *   **Includes:** Maintenance, utilities costs, cleaning, security, and safety.
