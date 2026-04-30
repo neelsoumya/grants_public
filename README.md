@@ -153,3 +153,26 @@
 
 ---
 
+
+## Concepts
+
+- 🧩🚀 Full Economic Costing (FEC):
+
+
+### **Directly Allocated (DA)**
+*   **Definition:** Cost of staff time and resources that already exist but will be committed to the project.
+*   **Example:** 10% of the PI's (Principal Investigator) time.
+
+### **Directly Incurred (DI)**
+*   **Definition:** Project-specific costs. These are costs that would only exist if the project goes ahead.
+*   **Examples:** Travel and subsistence, new research posts.
+
+---
+
+### **Indirect Costs**
+*   **Definition:** Infrastructure costs for the university, management, and administrative services.
+*   **Includes:** Personnel and finance departments, library, central computing, and some departmental services.
+
+### **Estates**
+*   **Definition:** Costs related to buildings and premises.
+*   **Includes:** Maintenance, utilities costs, cleaning, security, and safety.
