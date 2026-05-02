@@ -159,6 +159,12 @@ Examples of acceptable placeholders:
 - `[NAME OF HOST INSTITUTION]`  
 - `[REFERENCE NEEDED]`  
 
+Please note my details are:
+ - name is Soumya Banerjee 
+ - I am a Senior Lecturer in the Department of Computer Science at York University, UK. 
+ - email is soumya.banerjee@york.ac.uk
+ 
+
 ## Quality Checklist
 
 Before finishing, verify:
