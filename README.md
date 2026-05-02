@@ -12,6 +12,9 @@
 
   * [EPSRC Small Mathematical Grants](https://www.ukri.org/opportunity/mathematical-sciences-small-grants/)
 
+
+  * Grant with Nabin and Shrbona on AI and pedagogy in the Global South and UK
+
   * [Schmidt HAVI](https://www.schmidtsciences.org/humanities-and-ai-virtual-institute/)
 
   * Grant with Amy O. at Cambridge and Hope M. and Vik.
