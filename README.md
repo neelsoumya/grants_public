@@ -184,9 +184,9 @@ Value for money
 
  Justified? Give explanations and in line with 
 
-- No. 1 rookie mistake
+- ⚠️ No. 1 rookie mistake
 
-Start with small grants
+🤔 Start with small grants
 
  Start with QR funding
 	
