@@ -35,6 +35,10 @@
   * Institutional grants
 
 
+  * [EDI grant](https://edihubplus.ac.uk/edi-hub-flexible-fund-round-2-2026-full-call-guidance/#1)
+
+  * [Nature AI](https://www.nature.com/immersive/aifordiscovery/index.html)
+
 ---
 
 ## How to use this list
@@ -148,6 +152,9 @@
 
 - `SKILLS.md` file for writing grants
 
+- 💡 Use _Claude_ to find grants 
+
+
 ## Practical tips & templates
 
 * Use your institution’s Research Office for costing, eligibility checks, and internal deadlines.
@@ -188,11 +195,11 @@ Value for money
 
 🤔 Start with small grants
 
- Start with QR funding
+- Start with QR/internal funding
 	
- Small pots of money
+- Small pots of money
 	
- Apply for co-PI first
+- Apply for co-PI first
 
 
 
