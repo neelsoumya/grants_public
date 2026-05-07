@@ -201,6 +201,8 @@ Value for money
 	
 - Apply for co-PI first
 
+- KTP with industry
+
 
 
 ## Concepts
