@@ -229,6 +229,6 @@ Value for money
 *   **Includes:** Maintenance, utilities costs, cleaning, security, and safety.
 
 
-## Use of Claude to find grants
+## ⚠️ Use of Claude to find grants
 
 - Ask [`Claude`](https://claude.ai/new) to find new grants for me in the UK (give it as input my [CV](CV.md), and papers, and my interests in AI + physics + math + puzzles, etc. + [SKILLS.md](SKILLS.md) file)
