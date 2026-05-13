@@ -89,6 +89,8 @@
   * [https://www.ukri.org/opportunity/future-leaders-fellowship](https://www.ukri.org/opportunity/future-leaders-fellowship)
   * Supports early-mid career independence and programme costs; fits ambitious AI research and interdisciplinary proposals.
 
+* [All UKRI grants](https://www.ukri.org/opportunity/?keywords=&filter_status%5B%5D=open&filter_status%5B%5D=upcoming&filter_order=closing_date&filter_submitted=true)  
+
 * [Wellcome](https://wellcome.org/research-funding/schemes)
 
 * **EPSRC (part of UKRI)** — research grants and programme grants
