@@ -232,3 +232,5 @@ Value for money
 ## ⚠️ Use of Claude to find grants
 
 - Ask [`Claude`](https://claude.ai/new) to find new grants for me in the UK (give it as input my [CV](CV.md), and papers, and my interests in AI + physics + math + puzzles + abstraction and reasoning corpus, etc. + [SKILLS.md](SKILLS.md) file) give me authentic links with deadlines in the next 6 months.
+
+- 🤔 Use [NotebookLM](https://notebooklm.google/) and Claude to peer review research grants by training with existing proposals critically (successful with peer review reports + unsuccessful with peer review reports)
