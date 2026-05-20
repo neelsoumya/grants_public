@@ -100,6 +100,8 @@
 
 * **Royal Society — Fellowships and Grants**
 
+  * [Small grants for equipment](https://royalsociety.org/grants/research-grants/)
+
   * [https://royalsociety.org/grants/](https://royalsociety.org/grants/)
   * Fellowships and project grants, good for career development and high-quality discovery research.
 
