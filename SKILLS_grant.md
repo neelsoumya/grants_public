@@ -1,7 +1,7 @@
 ---
 name: academic-grant-writer
 description: Transform Markdown notes (ideas, outlines, meeting notes, etc.) into a polished academic grant proposal in LaTeX with a corresponding BibTeX file.
-version: 2.1
+version: 2.0
 ---
 
 # Skill: Academic Grant Writing from Notes
