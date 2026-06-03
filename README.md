@@ -152,11 +152,14 @@
 ---
 
 
-## SKILLS
+## ⚠️ SKILLS
 
 - `SKILLS_grant.md` and `SKILLS.md` file for writing grants
 
-- 💡 Use _Claude_ to find grants 
+- ⚠️💡 Use _Claude_, [NotebookLM](https://notebooklm.google/) or ChatGPT projects to write grants
+
+> Write a grant for John Templeton Foundation (see JTF.md for grant details). some grant ideas are in creativity_AI.md. Also refer to my CV in CV.md For skills and guidance on how to write grants refer to SKILLS_grant.md For previous successful examples of grants see example PDFs attached or in folder /Users/soumyabanerjee/soumya_cam_mac/grants/grant_examples
+
 
 
 ## Practical tips & templates
