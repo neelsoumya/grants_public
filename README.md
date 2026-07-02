@@ -1,6 +1,9 @@
 
 # Grants & Funding Opportunities for UK Faculty (AI, agentic AI, XAI, responsible AI, AI in healthcare)
 
+
+- _Headline_ `SKILLS.md` is all you need!
+
 - Publicly available
 
 - AI, agentic AI, explainable AI, responsible AI, AI in healthcare
