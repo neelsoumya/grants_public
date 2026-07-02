@@ -257,4 +257,4 @@ Value for money
 - ⚠️💡 more prompts for Claude, Gemini and ChatGPT
 
 > see ~/soumya_cam_mac/grants/agentic_science_grants/AI_tool folder. find me grants that are relevant to me. See proposal in [JTF](../JTF_2026/README.md  ). FInd me similar grant calls. My CV is here [CV.md](../CV.md). Tips are here [tips.md](tips.md). People who work in some relevant fields in my department are listed here in [who_works_on_what.md](who_works_on_what.md). Use the skills here [SKILLS_grant.md](../SKILLS_grant.md). Find me funding agencies in the UK including traditional agencies as well unconventional ones such as charities and ARIA. Save all output as .md with date in filename in this folder. Give me output in standard output as well.
-Find me only funding calls which are open for application as of [`today's date`](30th July 2026)
+Find me only funding calls which are open for application as of [`today's date`](if today's date not available then use 30th July 2026)
