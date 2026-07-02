@@ -10,7 +10,7 @@
 
 - This README collects 💰 **small** and **large** grant schemes you (UK-based faculty) can realistically apply for, with direct links and notes on fit for your research areas (agentic AI, explainable AI, responsible AI for the Global South, AI applied to healthcare).
 
-- This is also a prototype _tool_ for grant discovery (acknowledgements: Iain Bate).
+- This is also a prototype _tool_ for grant discovery.
 
 
 ## 💰 Quick view
