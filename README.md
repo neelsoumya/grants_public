@@ -152,13 +152,17 @@
 ---
 
 
-## ⚠️ SKILLS
+## ⚠️ SKILLS and PROMPTS
 
 - `SKILLS_grant.md` and `SKILLS.md` file for writing grants
 
 - ⚠️💡 Use _Claude_, [NotebookLM](https://notebooklm.google/) or ChatGPT projects to write grants
 
 > Write a grant for John Templeton Foundation (see JTF.md for grant details). some grant ideas are in creativity_AI.md. Also refer to my CV in CV.md For skills and guidance on how to write grants refer to SKILLS_grant.md For previous successful examples of grants see example PDFs attached or in folder /Users/soumyabanerjee/soumya_cam_mac/grants/grant_examples
+
+- ⚠️💡 more prompts for Claude, Gemini and ChatGPT
+
+> see ~/soumya_cam_mac/grants/agentic_science_grants/AI_tool folder. find me grants that are relevant to me. See proposal in [JTF](../JTF_2026/README.md  ). FInd me similar grant calls. My CV is [here](../CV.md). Tips are [here](tips.md). People who work in some relevant fields in my department are listed [here](who_works_on_what.md). Use the skills [here](../SKILLS_grant.md). Find me funding agencies in the UK including traditional agencies as well unconventional ones such as charities and ARIA. Find me only funding calls which are open for application as of [`today's date`](10th July 2026)
 
 
 
@@ -242,6 +246,11 @@ Value for money
 
 - 🤔 Use [NotebookLM](https://notebooklm.google/) and Claude to peer review research grants by training with existing proposals critically (successful with peer review reports + unsuccessful with peer review reports)
 
-- Prompt:
+- ⚠️💡 Prompt:
 
 > find new grants for me in the UK (give it as input my [CV](CV.md), and papers, and my interests in AI + physics + math + puzzles + abstraction and reasoning corpus, etc. + [SKILLS.md](SKILLS_grant.md) file) give me authentic links with deadlines in the next 6 months.
+
+
+- ⚠️💡 more prompts for Claude, Gemini and ChatGPT
+
+> see ~/soumya_cam_mac/grants/agentic_science_grants/AI_tool folder. find me grants that are relevant to me. See proposal in [JTF](../JTF_2026/README.md  ). FInd me similar grant calls. My CV is [here](../CV.md). Tips are [here](tips.md). People who work in some relevant fields in my department are listed [here](who_works_on_what.md). Use the skills [here](../SKILLS_grant.md). Find me funding agencies in the UK including traditional agencies as well unconventional ones such as charities and ARIA. Find me only funding calls which are open for application as of [`today's date`](10th July 2026)
