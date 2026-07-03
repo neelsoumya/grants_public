@@ -290,7 +290,7 @@ You have access to the following reference documents in your workspace (or uploa
 3. `CV.md`: Academic track record of the PI, Dr. Soumya Banerjee (Senior Lecturer in Computer Science, University of York; research in computational immunology, explainable AI, collective intelligence, and health data science).
 4. `JTF_grant_guidelines.md`: John Templeton Foundation 2026 Intelligence Venture call guidelines (supporting biological, synthetic, and artificial intelligence research across learning, collective intelligence, and technological intelligence).
 5. `tips.md` & `who_works_on_what.md`: Notes on departmental collaborators (AI safety, philosophy, HCI) and strategies (charities, co-PI roles).
-6. `example_grants/` folder: Successful EPSRC New Investigator Award (NIA) proposals (Peter Nightingale on solver feedback loops, Poonam Yadav on REMOTE edge fabrics, Pourya Shamsolmoali on egocentric visual place recognition) to serve as gold-standard reference models.
+6. `example_grants/` folder: Successful EPSRC New Investigator Award (NIA) proposals to serve as gold-standard reference models.
 
 ---
 
