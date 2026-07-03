@@ -12,6 +12,12 @@
 
 - This is also a prototype _tool_ for grant discovery.
 
+- ⚠️ Use of Claude/GenAI to find grants and review grants
+
+- The architecture of this `machine` is shown below
+
+![architecture](images/grant_arch.png)
+
 
 ## 💰 Quick view
 
@@ -245,7 +251,11 @@ Value for money
 *   **Includes:** Maintenance, utilities costs, cleaning, security, and safety.
 
 
-## ⚠️ Use of Claude to find grants
+## ⚠️ Use of Claude/GenAI to find grants and review grants
+
+- The architecture of this `machine` is shown below
+
+![architecture](images/grant_arch.png)
 
 - Ask [`Claude`](https://claude.ai/new) to find new grants for me in the UK (give it as input my [CV](CV.md), and papers, and my interests in AI + physics + math + puzzles + abstraction and reasoning corpus, etc. + [SKILLS.md](SKILLS_grant.md) file) give me authentic links with deadlines in the next 6 months.
 
@@ -262,7 +272,7 @@ Value for money
 Find me only funding calls which are open for application as of [`today's date`](if today's date not available then use 30th July 2026)
 
 
-- provides stuctured feedback on draft prpoosals based on successful grant proposals
+- ⚠️💡 Prompt to provide stuctured feedback on draft prpoosals based on successful grant proposals
 
 > Copy and paste the prompt below into Claude Projects, Gemini, or ChatGPT as a System Instruction / Custom Instructions, or run it directly in a conversation where you have uploaded your grant documents and draft proposals.
 
