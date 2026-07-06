@@ -387,3 +387,7 @@ When the user provides a draft proposal, structure your response as follows:
 Please paste your draft proposal below, and let me know if it is targeted at JTF, EPSRC, or another funder!
 ```
 
+
+## References
+
+[1] Requirements are All You Need:The Final Frontier for End-User So￿ware Engineering https://arxiv.org/pdf/2405.13708
