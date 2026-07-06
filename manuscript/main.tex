@@ -1,0 +1,73 @@
+\documentclass[11pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage{cite}
+
+\geometry{margin=1in}
+
+\title{\texttt{SKILLS.md} is All You Need: \\ An Agentic AI Framework for Academic Grant Discovery and Peer Review}
+\author{Dr. Soumya Banerjee \\ \textit{Department of Computer Science, University of York}}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+The academic grant acquisition process is notoriously time-consuming, requiring highly specific knowledge of funding landscapes, complex institutional costing structures, and strict adherence to narrative conventions. Inspired by recent advances in generative artificial intelligence (GenAI) and large language models (LLMs), we propose a novel framework for automating both grant discovery and peer-review feedback. Under the paradigm of ``\texttt{SKILLS.md} is all you need,'' we demonstrate that providing LLMs with heavily structured, domain-specific context files---such as a track record (\texttt{CV.md}), writing guidelines (\texttt{SKILLS.md}), and specific call requirements---enables the generation of highly accurate, structured, and actionable funding proposals and peer reviews. This paper outlines the architecture of this agentic system, details an 8-domain structured feedback evaluation methodology, and reviews its application to the UK and international funding landscapes.
+\end{abstract}
+
+\section{Introduction}
+Academics face increasing pressures to secure external funding while navigating an ever-expanding array of complex grant schemes. Traditional approaches to finding and applying for grants are manual and inefficient. Recent advancements in Large Language Models (LLMs) such as Claude, Gemini, and ChatGPT have introduced the possibility of an ``agentic'' approach to science funding \cite{vaswani2017attention, bommasani2021opportunities}. 
+
+However, LLMs applied in a zero-shot manner often hallucinate funder priorities, ignore specific economic costings (such as the UK's Full Economic Costing model), and fail to adopt the specialized narrative arc required for successful proposals. We propose a solution to this by supplying the model with heavily structured context files. The core philosophy of our approach is that \texttt{SKILLS.md}---a rigorously defined set of instructions mapping out academic expectations---is all you need to transform a generic LLM into an elite academic grant reviewer and strategist.
+
+\section{System Architecture and Prompt Engineering}
+The architecture of this AI grant assistant relies on Retrieval-Augmented Generation (RAG) principles and structured system prompts. The core inputs into the system (such as Claude Projects or NotebookLM) are:
+\begin{itemize}
+    \item \textbf{\texttt{CV.md}}: The Principal Investigator's track record and expertise (e.g., computational immunology, explainable AI, health data science).
+    \item \textbf{\texttt{SKILLS.md}}: Core guidance on academic grant writing, preferred structural formats, SMART objectives, and lay summary writing.
+    \item \textbf{Funder Guidelines}: Explicit rulesets, such as the John Templeton Foundation (JTF) 2026 Intelligence Venture or UKRI EPSRC guidelines \cite{ukri2023guidance}.
+    \item \textbf{Collaborator Networks}: Documents like \texttt{who\_works\_on\_what.md} to suggest co-investigators and interdisciplinary links.
+\end{itemize}
+
+By utilizing the prompt: \textit{``Find new grants for me in the UK (give it as input my CV, papers, interests in AI, physics, math, plus SKILLS.md). Give me authentic links with deadlines...''}, the LLM acts as an intelligent aggregator.
+
+\section{The 8-Domain Structured Peer Review Methodology}
+A cornerstone of this framework is the AI's ability to critically evaluate draft proposals against successful models. The system is instructed to evaluate drafts across eight rigorous domains:
+
+\begin{enumerate}
+    \item \textbf{Narrative Arc \& Vision}: Ensuring the proposal transitions logically from \textit{Problem $\rightarrow$ Gap $\rightarrow$ Aim $\rightarrow$ Impact}.
+    \item \textbf{SMART Objectives Evaluation}: Forcing objectives into a measurable template (e.g., \textit{To [action] [target] in [context] by [timeframe]}).
+    \item \textbf{Work Package (WP) Detail \& Feasibility}: Ensuring 1-to-1 mapping between objectives and WPs, including risk mitigation and deliverables.
+    \item \textbf{Outputs, Outcomes, and Impact Mapping}: Clearly distinguishing between tangible outputs, short-term outcomes, and long-term societal impacts (Theory of Change).
+    \item \textbf{Lay Summary Readability}: Adhering to a 150-500 word limit, targeting a 15-17 word average sentence length, free of jargon.
+    \item \textbf{PI Track Record Alignment}: Utilizing the R4RI (Résumé for Research and Innovation) four-module format.
+    \item \textbf{Financial \& Feasibility Realism (FEC)}: Adhering to UK Full Economic Costing structures (Directly Allocated, Directly Incurred, Indirect, and Estates) \cite{epsrc2023fec}.
+    \item \textbf{Funder Alignment}: Tailoring the pitch, for instance, targeting JTF's biological, synthetic, and artificial intelligence tracks, or EPSRC New Investigator Award (NIA) expectations.
+\end{enumerate}
+
+\section{Targeting the Funding Landscape}
+The AI agent is equipped to navigate both standard and unconventional funding streams:
+\subsection{Small Grants and Seed Funding}
+Small grants (£50k--£200k) such as EPSRC Small Mathematical Grants, Leverhulme Trust Small Research Grants, and the Schmidt Humanities and AI Virtual Institute (HAVI) are identified as optimal for gathering pilot data and initiating interdisciplinary projects (e.g., AI and pedagogy in the Global South).
+
+\subsection{Mid-to-Large Scale Grants}
+For larger endeavors, the system targets UKRI Future Leaders Fellowships, EPSRC Programme Grants, and Wellcome Trust Discovery Awards. Specifically, AI applications in health are mapped towards NIHR AI in Health and Care awards.
+
+\subsection{Unconventional and International Funds}
+The framework explicitly targets unconventional agencies such as ARIA (Advanced Research and Invention Agency) for Safe AI, alongside philanthropic entities like the John Templeton Foundation and Gates Foundation, particularly for responsible AI deployment in the Global South.
+
+\section{Conclusion}
+The integration of agentic AI into the grant writing process represents a paradigm shift in academic research administration. By structuring institutional knowledge, funding mechanisms (like FEC), and narrative methodologies into comprehensive markdown files (\texttt{SKILLS.md}), researchers can drastically reduce the administrative burden of grant discovery and peer-review. Future work will involve quantitative benchmarking of AI-reviewed proposals against human-panel outcomes.
+
+\bibliographystyle{plain}
+\bibliography{refs}
+
+\end{document}
+
+
